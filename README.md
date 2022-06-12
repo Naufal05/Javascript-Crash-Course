@@ -227,4 +227,4 @@ console.log ('click');
 })
 in the log you can alos check for event (e) methods
 e.target.class
-you get all the different atributes of the event you click
+you get all the different atributes of the event you click.
